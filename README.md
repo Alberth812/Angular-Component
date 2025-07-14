@@ -1,5 +1,6 @@
 Angular Material 
-<img width="853" height="684" alt="imagen" src="https://github.com/user-attachments/assets/c2ee299d-ba45-428d-90d6-40cbbdff8eca" />
+<img width="841" height="533" alt="imagen" src="https://github.com/user-attachments/assets/56392820-ca1a-496a-af43-9a339c02a80f" />
+
 
     Proyecto escolar desarrollado con Angular  y Angular Material  
 
