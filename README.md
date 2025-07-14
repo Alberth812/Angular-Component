@@ -1,59 +1,141 @@
-# AngularMaterial
+Angular Material 
+<img width="853" height="684" alt="imagen" src="https://github.com/user-attachments/assets/c2ee299d-ba45-428d-90d6-40cbbdff8eca" />
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.0.
+    Proyecto escolar desarrollado con Angular  y Angular Material  
 
-## Development server
+     
 
-To start a local development server, run:
+ 
+Propósito del Proyecto 
 
-```bash
-ng serve
-```
+Este proyecto tiene como objetivo mostrar cómo integrar y utilizar los componentes de Angular Material  en una aplicación real. Cada uno está implementado de forma sencilla y clara, permitiendo visualizar su funcionamiento y estilo. 
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Es ideal como referencia técnica o punto de partida para aprender a usar Angular Material en proyectos propios. 
+ 
+Estructura del Proyecto 
 
-## Code scaffolding
+Organizado de manera modular siguiendo buenas prácticas de Angular: 
+ 
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+src/
+└── app/
+    ├── components/
+    │   ├── card-overview
+    │   ├── mat-autocomplete
+    │   ├── datepicker-overview-example
+    │   ├── divider-overview-example
+    │   ├── expansion-overview
+    │   ├── form-field
+    │   ├── progress-bar
+    │   ├── slide-toggles
+    │   ├── spinner
+    │   ├── toolbar
+    │   └── ... (otros 15 componentes)
+    ├── app.component.html
+    ├── app.component.scss
+    ├── app.module.ts
+    └── ...
+ 
+ 
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Cada componente está separado en su propia carpeta, facilitando su mantenimiento y comprensión. 
+ 
+Componentes Implementados 
 
-```bash
-ng generate component component-name
-```
+Todos los componentes usados están disponibles en la documentación oficial: https://material.angular.dev/components/form-field/overview   
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+    Card
+    Autocomplete
+    Datepicker
+    Divider
+    Expansion Panel
+    Form Field
+    Input
+    Menu
+    Paginator
+    Progress Bar
+    Radio Button
+    Slide Toggle
+    Sorting
+    Spinner
+    Toolbar
+     
 
-```bash
-ng generate --help
-```
+ 
+Capturas de Pantalla 
 
-## Building
+A continuación se muestran algunas capturas del proyecto en acción: 
+Card Overview:
+<img width="459" height="684" alt="imagen" src="https://github.com/user-attachments/assets/7fc952de-35c6-4f86-b3dc-1339bd29023a" />
 
-To build the project run:
+	
+Autocomplete
+<img width="1409" height="248" alt="imagen" src="https://github.com/user-attachments/assets/40c3a613-a780-4881-9d0b-c41c5f6cf7e1" />
 
-```bash
-ng build
-```
+	
+Spinner
+<img width="274" height="248" alt="imagen" src="https://github.com/user-attachments/assets/8b4a1d5a-60d3-4186-abfa-11ef4beafa46" />
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
-## Running unit tests
+ 
+Form Field
+<img width="1306" height="408" alt="imagen" src="https://github.com/user-attachments/assets/783efb41-aba2-446f-87b1-6e5a0c400eaa" />
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
 
-```bash
-ng test
-```
+	
+Expansion Overview
+<img width="928" height="325" alt="imagen" src="https://github.com/user-attachments/assets/ae336ec8-6b5b-4631-92f1-aeb9aa6fb26e" />
 
-## Running end-to-end tests
 
-For end-to-end (e2e) testing, run:
+ 
+Link de previsualizacion:  
 
-```bash
-ng e2e
-```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+ 
+Configuración y Uso 
+1. Clona el repositorio: 
+bash
+ 
+ 
+1: git clone https://github.com/tu-repositorio/angular-material-demo.git 
+ 
+ 
+2:Instala las dependencias: 
+bash
+ 
+ 
+1:npm install
+ 
+ 
+2. Inicia el servidor local: 
+bash
+ 
+ 
+3: ng serve
+ 
+ 
+4: Visita la app en: 
 
-## Additional Resources
+http://localhost:4200  
+ 
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+ 
+🙌 Gracias por visitar este proyecto! 
