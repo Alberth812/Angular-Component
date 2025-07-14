@@ -124,20 +124,26 @@ Capturas de Pantalla
 A continuación, se muestran algunas capturas de pantalla del proyecto en acción. Estas imágenes te darán una idea de cómo se ven los componentes en vivo. 
 Captura 1: Card Overview 
 
+
    
 Captura 2: Autocomplete 
+
 <img width="1383" height="239" alt="imagen" src="https://github.com/user-attachments/assets/ad0e60df-7534-481c-ae1f-623f3875269c" />
 
    
 Captura 3: Datepicker 
+
 <img width="1383" height="589" alt="imagen" src="https://github.com/user-attachments/assets/76392173-8822-44ef-a0c0-25e6ce6f6940" />
 
    
 Captura 4: Form Field 
+
 <img width="1383" height="499" alt="imagen" src="https://github.com/user-attachments/assets/c34d8180-0078-45fe-8a77-1abd2e647d23" />
+
 
    
 Captura 5: Card 
+
 <img width="466" height="684" alt="imagen" src="https://github.com/user-attachments/assets/08177a67-40c2-4e35-8981-b960bf7a12bd" />
 
    
