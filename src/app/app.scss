@@ -1,0 +1,37 @@
+section {
+  margin-bottom: 2rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  background: #fafbfc;
+  box-shadow: 0 2px 8px 0 rgba(255, 255, 255, 0.06);
+}
+
+section h2 {
+  margin-top: 0;
+  font-size: 1.3rem;
+  color: #1976d2;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+body {
+  background: #f5f7fa;
+  font-family: Roboto, Arial, sans-serif;
+  color: #333;
+}
+section {
+  scroll-margin-top: 60px; // Para que al hacer scroll suavizado, no quede debajo del header
+  margin-bottom: 40px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 16px;
+  color: #333;
+}

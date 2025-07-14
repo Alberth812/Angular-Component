@@ -1,0 +1,8 @@
+<mat-form-field>
+  <mat-label>Choose a date</mat-label>
+  <input matInput [value]="selectedDate | date:'MM/dd/yyyy'" readonly (focus)="showCalendar = true">
+</mat-form-field>
+
+<div *ngIf="showCalendar">
+  <mat-calendar [(selected)]="selectedDate" (selectedChange)="showCalendar = false"></mat-calendar>
+</div>
