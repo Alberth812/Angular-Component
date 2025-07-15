@@ -1,0 +1,9 @@
+.example-card {
+  max-width: 400px;
+}
+
+.example-header-image {
+
+  background-image: url('/home/andres/angular-material/src/app/componets/card-overview/images.jpg'); /* Example relative path */
+  background-size: cover;
+}

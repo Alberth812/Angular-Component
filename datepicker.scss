@@ -1,0 +1,45 @@
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 340px;
+  margin: 2rem auto;
+  min-height: 420px;
+  position: relative;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(60, 60, 60, 0.08);
+  padding: 2rem 1rem;
+  overflow: auto;
+}
+
+mat-form-field {
+  width: 100%;
+}
+
+
+.mat-datepicker-content,
+.cdk-overlay-pane .mat-datepicker-content {
+  background: #ffffff !important;
+  color: #000000 !important;
+  box-shadow: 0 4px 24px rgba(60, 60, 60, 0.13);
+  border-radius: 8px;
+  z-index: 1002 !important;
+}
+
+.cdk-overlay-pane {
+  z-index: 1002 !important;
+}
+
+input[matInput] {
+  background-color: #f9f9f9 !important; 
+  color: #000000 !important;            
+  border-radius: 4px;
+  padding: 0.5rem;
+}
+
+
+input[matInput]:focus {
+  outline: none;
+  background-color: #ffffff !important;
+}
